@@ -1,0 +1,170 @@
+{
+	"gutterSettings": {
+		"background": "#49483E",
+		"divider": "#75715E",
+		"foreground": "#75715E"
+	},
+	"name": "Homebrew",
+	"semanticClass": "theme.dark.homebrew",
+	"settings": [
+		{
+			"settings": {
+				"background": "#000000",
+				"caret": "#80ff80",
+				"foreground": "#80ff80",
+				"invisibles": "#49483E",
+				"lineHighlight": "#0b7d1c",
+				"selection": "#1d6b2b"
+			}
+		},
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#63755e"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#ff5b60"
+			}
+		},
+		{
+			"name": "Number",
+			"scope": "constant.numeric",
+			"settings": {
+				"foreground": "#fab6fc"
+			}
+		},
+		{
+			"name": "Built-in constant",
+			"scope": "constant.language",
+			"settings": {
+				"foreground": "#1ce2f9"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": "constant.character, constant.other",
+			"settings": {
+				"foreground": "#9cff81"
+			}
+		},
+		{
+			"name": "Variable",
+			"scope": "variable",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#ff8000"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#c0c0c0"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": "storage",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#54f926"
+			}
+		},
+		{
+			"name": "Storage type",
+			"scope": "storage.type",
+			"settings": {
+				"foreground": "#ffff00"
+			}
+		},
+		{
+			"name": "Class name",
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#39abd7",
+				"fontStyle": " italic"
+			}
+		},
+		{
+			"name": "Inherited class",
+			"scope": "entity.other.inherited-class",
+			"settings": {
+				"fontStyle": "italic ",
+				"foreground": "#39abd7"
+			}
+		},
+		{
+			"name": "Function name",
+			"scope": "entity.name.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#e42cd7"
+			}
+		},
+		{
+			"name": "Tag name",
+			"scope": "entity.name.tag",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#54f926"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#55e22e"
+			}
+		},
+		{
+			"name": "Library function",
+			"scope": "support.function",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#84ef66"
+			}
+		},
+		{
+			"name": "Library constant",
+			"scope": "support.constant",
+			"settings": {
+				"foreground": "#84ef66"
+			}
+		},
+		{
+			"name": "Library class\/type",
+			"scope": "support.type, support.class",
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#84ef66"
+			}
+		},
+		{
+			"name": "Invalid",
+			"scope": "invalid",
+			"settings": {
+				"background": "#54f926",
+				"fontStyle": "",
+				"foreground": "#ff1c21"
+			}
+		},
+		{
+			"name": "Invalid deprecated",
+			"scope": "invalid.deprecated",
+			"settings": {
+				"background": "#9cff81",
+				"foreground": "#ff00ff"
+			}
+		}
+	],
+	"uuid": "D8D5E82E-3D5B-46B5-B38E-8C841C21347D",
+	"colorSpaceName": "sRGB",
+	"author": "fae",
+	"comment": "My take on the Mac OS Homebrew Terminal theme"
+}
