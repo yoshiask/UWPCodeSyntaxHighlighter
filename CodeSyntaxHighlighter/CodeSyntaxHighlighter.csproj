@@ -151,7 +151,7 @@
       <Version>7.0.0-build.88.gae44543667</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
-      <Version>12.0.3</Version>
+      <Version>13.0.1</Version>
     </PackageReference>
     <PackageReference Include="NJsonSchema.CodeGeneration.CSharp">
       <Version>10.1.23</Version>
